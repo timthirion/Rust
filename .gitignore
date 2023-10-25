@@ -19,3 +19,6 @@ Cargo.lock
 
 # iOS
 xcuserdata/
+
+# npm
+node_modules/
